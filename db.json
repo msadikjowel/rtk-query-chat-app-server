@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "email": "sadd@sad.com",
+      "password": "$2a$10$.TV1d3gNOhrJ7j.2jBoSK.1Lv.VlgjQqxrPDyZW7R0mvmigE1T1VW",
+      "name": "Mohammed Sadik",
+      "id": 1
+    },
+    {
+      "email": "msadikjowel@gmail.com",
+      "password": "$2a$10$Q5RRgwdtG9XRRD5s.uAN2OkiuhvO6vIKaE2/StNi8ctWFiyl86gJq",
+      "name": "Mohammed Sadik",
+      "id": 2
+    }
+  ],
+  "conversations": [
+    {
+      "participants": "sadd@sad.com-msadikjowel@gmail.com",
+      "users": [
+        {
+          "email": "sadd@sad.com",
+          "name": "Mohammed Sadik",
+          "id": 1
+        },
+        {
+          "email": "msadikjowel@gmail.com",
+          "name": "Mohammed Sadik",
+          "id": 2
+        }
+      ],
+      "message": "hey",
+      "timestamp": 1663516900656,
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "receiver": {
+        "email": "msadikjowel@gmail.com",
+        "password": "$2a$10$Q5RRgwdtG9XRRD5s.uAN2OkiuhvO6vIKaE2/StNi8ctWFiyl86gJq",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "message": "hello sadik\n",
+      "timestamp": 1663516122807,
+      "id": 1
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "message": "hey bodda, good to see you",
+      "timestamp": 1663516147775,
+      "id": 2
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "receiver": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "message": "hey sadik, whats up",
+      "timestamp": 1663516254813,
+      "id": 3
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "message": "yeah,  i am fine",
+      "timestamp": 1663516260959,
+      "id": 4
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "receiver": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "message": "what about you",
+      "timestamp": 1663516264287,
+      "id": 5
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "receiver": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "message": "yeah, i am also fine",
+      "timestamp": 1663516272558,
+      "id": 6
+    },
+    {
+      "conversationId": 1,
+      "sender": {
+        "email": "sadd@sad.com",
+        "name": "Mohammed Sadik",
+        "id": 1
+      },
+      "receiver": {
+        "email": "msadikjowel@gmail.com",
+        "name": "Mohammed Sadik",
+        "id": 2
+      },
+      "message": "hey",
+      "timestamp": 1663516900656,
+      "id": 7
+    }
+  ]
+}
